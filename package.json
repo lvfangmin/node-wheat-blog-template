@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ddewaele/node-wheat-blog-template.git"
+    "url": "git@github.com/lvfangmin/node-wheat-blog-template.git"
   },
   "engines": {
     "node": ">=0.4.0"
@@ -40,7 +40,7 @@
     "node",
     "gith"
   ],
-  "author": "Davy De Waele",
+  "author": "Lv Fangmin",
   "license": "BSD",
   "readmeFilename": "README.md",
   "gitHead": "8ffa229a0fa232f1ddda9530ddb849cd5d9fceee"
